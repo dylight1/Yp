@@ -1,0 +1,61 @@
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe.config
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.pdb
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.AssemblyReference.cache
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Customers.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Form1.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Main.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.OrderItems.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Orders.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.ProductCategories.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Products.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Properties.Resources.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Users.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Vendors.resources
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.GenerateResource.cache
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.CoreCompileInputs.cache
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.exe
+D:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.pdb
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csprojAssemblyReference.cache
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Customers.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Form1.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Main.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.OrderItems.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Orders.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.ProductCategories.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Products.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Properties.Resources.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Users.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Vendors.resources
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.GenerateResource.cache
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.CoreCompileInputs.cache
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.exe
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.pdb
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe.config
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.pdb
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.dll
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.xml
+I:\ТРЗБД\Курсовая работа\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.CopyComplete
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe.config
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.exe
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\ElectroHub.pdb
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.dll
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.xml
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Main.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.OrderItems.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Orders.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Products.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Properties.Resources.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Users.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.csproj.CopyComplete
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.exe
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.pdb
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Categories.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.SignUp.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Auth.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\ElectroHub.Reviews.resources

@@ -1,0 +1,130 @@
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\avtod.exe.config
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\avtod.exe
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\avtod.pdb
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.dll
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\bin\Debug\System.ValueTuple.xml
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Categories.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Auth.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Main.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.OrderItems.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Orders.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Reviews.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Products.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Properties.Resources.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.SignUp.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.Users.resources
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.csproj.CopyComplete
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.exe
+C:\Users\pavel\Desktop\Курсовая работа бронин\программа\ElectroHub\ElectroHub\obj\Debug\avtod.pdb
+C:\Users\pavel\Desktop\avtod\avtod\bin\Debug\avtod.exe.config
+C:\Users\pavel\Desktop\avtod\avtod\bin\Debug\avtod.exe
+C:\Users\pavel\Desktop\avtod\avtod\bin\Debug\avtod.pdb
+C:\Users\pavel\Desktop\avtod\avtod\bin\Debug\System.ValueTuple.dll
+C:\Users\pavel\Desktop\avtod\avtod\bin\Debug\System.ValueTuple.xml
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Categories.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Auth.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Main.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.OrderItems.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Orders.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Products.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Properties.Resources.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.Users.resources
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.csproj.CopyComplete
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.exe
+C:\Users\pavel\Desktop\avtod\avtod\obj\Debug\avtod.pdb
+H:\уп\avtod\avtod\bin\Debug\avtod.exe.config
+H:\уп\avtod\avtod\bin\Debug\avtod.exe
+H:\уп\avtod\avtod\bin\Debug\avtod.pdb
+H:\уп\avtod\avtod\bin\Debug\System.ValueTuple.dll
+H:\уп\avtod\avtod\bin\Debug\System.ValueTuple.xml
+H:\уп\avtod\avtod\obj\Debug\avtod.csproj.AssemblyReference.cache
+H:\уп\avtod\avtod\obj\Debug\avtod.Auth.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Main.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Properties.Resources.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.csproj.GenerateResource.cache
+H:\уп\avtod\avtod\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+H:\уп\avtod\avtod\obj\Debug\avtod.csproj.Up2Date
+H:\уп\avtod\avtod\obj\Debug\avtod.exe
+H:\уп\avtod\avtod\obj\Debug\avtod.pdb
+H:\уп\avtod\avtod\obj\Debug\avtod.SignUp.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Showpiece.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Authors.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Employees.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Exhibitions.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.ExhibitionShowpiece.resources
+D:\DOWLANDS\avtod\avtod\bin\Debug\avtod.exe.config
+D:\DOWLANDS\avtod\avtod\bin\Debug\avtod.exe
+D:\DOWLANDS\avtod\avtod\bin\Debug\avtod.pdb
+D:\DOWLANDS\avtod\avtod\bin\Debug\System.ValueTuple.dll
+D:\DOWLANDS\avtod\avtod\bin\Debug\System.ValueTuple.xml
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.csproj.AssemblyReference.cache
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Auth.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Authors.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Employees.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Exhibitions.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.ExhibitionShowpiece.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Main.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Properties.Resources.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Showpiece.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.SignUp.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.csproj.GenerateResource.cache
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.csproj.Up2Date
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.exe
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.pdb
+H:\уп\4 р\avtod\avtod\bin\Debug\avtod.exe.config
+H:\уп\4 р\avtod\avtod\bin\Debug\avtod.exe
+H:\уп\4 р\avtod\avtod\bin\Debug\avtod.pdb
+H:\уп\4 р\avtod\avtod\bin\Debug\System.ValueTuple.dll
+H:\уп\4 р\avtod\avtod\bin\Debug\System.ValueTuple.xml
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.csproj.AssemblyReference.cache
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Auth.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Authors.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Employees.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Exhibitions.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.ExhibitionShowpiece.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Main.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Properties.Resources.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Showpiece.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.SignUp.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.csproj.GenerateResource.cache
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.csproj.Up2Date
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.exe
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.pdb
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Roles.resources
+H:\уп\4 р\avtod\avtod\obj\Debug\avtod.Users.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Roles.resources
+D:\DOWLANDS\avtod\avtod\obj\Debug\avtod.Users.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Roles.resources
+H:\уп\avtod\avtod\obj\Debug\avtod.Users.resources
+H:\уп\Новая папка\avtod\avtod\bin\Debug\avtod.exe.config
+H:\уп\Новая папка\avtod\avtod\bin\Debug\avtod.exe
+H:\уп\Новая папка\avtod\avtod\bin\Debug\avtod.pdb
+H:\уп\Новая папка\avtod\avtod\bin\Debug\System.ValueTuple.dll
+H:\уп\Новая папка\avtod\avtod\bin\Debug\System.ValueTuple.xml
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.csproj.AssemblyReference.cache
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Auth.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Authors.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Employees.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Exhibitions.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.ExhibitionShowpiece.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Main.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Properties.Resources.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Roles.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Showpiece.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.SignUp.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.Users.resources
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.csproj.GenerateResource.cache
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.csproj.CoreCompileInputs.cache
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.csproj.Up2Date
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.exe
+H:\уп\Новая папка\avtod\avtod\obj\Debug\avtod.pdb
